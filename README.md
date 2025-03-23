@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Dry 👋 </h1>
+<h1 align="center">🚀 I'm Dry 👋 </h1>
 
 ---
 
